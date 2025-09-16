@@ -8,43 +8,32 @@
 - 🌍 Open to freelance projects and collaboration on innovative apps.
 
 ### ⚙️ Technical Skills
-- **Programming & Frameworks:** Dart, Flutter
-- **Database:** Firebase, Hive, SQFLite, Shared Preferences
-- **State Management:** Bloc, GetX, Provider
+- **Programming & Frameworks:** Dart, Flutter, Java
+- **State Management:**  BLoC, GetX, Provider
 - **Architecture Patterns:** Clean Architecture, MVVM, MVC
-- **Payment Integrations:** Stripe, In-App Purchases (App Store & Play Store) via **RevenueCat**
-- **Notifications:** Local Notifications, Push Notifications
-- **API & Backend:** REST API, Dio, HTTP
-- **AI Tools:** Cursor, Windsurf, Lovable
-- **App Deployment:** Published apps to **Google Play Store** and **Apple App Store**
+- **Database & Storage:** Firebase, Hive, Supabase, Shared Preferences
+- **Payments & Notifications:** Stripe, RevenueCat (In-App Purchases), Local & Firebase Push Notifications, OneSignal
+- **Tools & Platforms:** Git, GitHub, GitHub Actions, Azure DevOps, Postman
+- **APIs & Backend:** REST API, Dio, HTTP, Retrofit, OkHttp
+- **Productivity/AI Tools:** Cursor, Windsurf, Lovable, GitHub Copilot
+- **Deployment:** Google Play Store, Apple App Store, CI/CD pipelines
 
 ### 🚀 Featured Projects
 
 <table>
   <tr>
     <td align="">
-      <h4><a href="https://github.com/hashirshoaeb/star_book">Starbook</a></h4>
-      <p>A digital diary and mood tracking app to keep track of your mood and productivity.</p>
+      <h4><a href="https://apps.apple.com/pk/app/jetclean/id1251456716">JetClean</a></h4>
+      <p>A laundry service app with order booking, tracking, and notifications.</p>
     </td>
     <td align="">
-      <h4><a href="https://github.com/qurantalk">QuranTalk</a></h4>
-      <p>An emotional well-being and mental health app guided by the Quran.</p>
+      <h4><a href="https://github.com/qurantalk">ThemePark</a></h4>
+      <p>A mobile app for Scotland’s theme park.</p>
     </td>
     <td align="">
-      <h4><a href="https://topmate.io/hashirshoaeb/1361164">Motivation | Age counter</a></h4>
-      <p>A minimal screensaver for macOS that shows your real-time age down to the second.</p>
+      <h4><a href="https://topmate.io/hashirshoaeb/1361164">Menacash Back</a></h4>
+      <p>A cashback and rewards app enabling users to shop from 1,500+ brands and earn cashback on purchases.</p>
     </td>
-  </tr>
-  <tr>
-    <td align="">
-      <h4><a href="https://github.com/hashirshoaeb/home">Home</a></h4>
-      <p>Portfolio website template to showcase projects and achievements.</p>
-    </td>
-    <td align="">
-      <h4><a href="https://github.com/hashirshoaeb/portfolio">Portfolio</a></h4>
-      <p>A static website template for freelancers and indie developers.</p>
-    </td>
-    <td></td>
   </tr>
 </table>
 
