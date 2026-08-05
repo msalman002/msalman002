@@ -7,7 +7,7 @@
 - 💻 Specializing in **Flutter, Java for Android, and scalable systems**.  
 - 🌍 Open to freelance projects and collaboration on innovative apps.
 ### ⚙️ Professional Summary
-Flutter Developer with 2+ years of hands-on experience building and deploying cross-platform mobile applications. Skilled in Flutter, Dart, Firebase, REST APIs, and state management (BLoC, Provider, GetX). Proven track record of publishing apps to the Google Play Store and Apple App Store, optimizing performance, and implementing scalable architectures (Clean Architecture, MVVM, MVC). Experienced in CI/CD pipelines, Agile development, and native Android (Java). 
+Flutter Developer with 3+ years of hands-on experience building and deploying cross-platform mobile applications. Skilled in Flutter, Dart, Firebase, REST APIs, and state management (BLoC, Provider, GetX). Proven track record of publishing apps to the Google Play Store and Apple App Store, optimizing performance, and implementing scalable architectures (Clean Architecture, MVVM, MVC). Experienced in CI/CD pipelines, Agile development, and native Android (Java). 
 ### ⚙️ Technical Skills
 - **Programming & Frameworks:** Dart, Flutter, Java
 - **State Management:**  BLoC, GetX, Provider
