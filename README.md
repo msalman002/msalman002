@@ -4,7 +4,7 @@
 
 ### 🌟 About Me
 - 🏢 Currently working as a Senior mobile app developer at **[MENA Cashback](https://www.menacashback.com/)**.  
-- 💻 Specializing in **Flutter, Java for Android, and scalable systems**.  
+- 💻 Specializing in **Flutter, Bloc, Cubit, and Clean Architecture**.  
 - 🌍 Open to freelance projects and collaboration on innovative apps.
 ### ⚙️ Professional Summary
 Flutter Developer with 3+ years of hands-on experience building and deploying cross-platform mobile applications. Skilled in Flutter, Dart, Firebase, REST APIs, and state management (Provider, BLoC/Cubit, and Riverpod). Proven track record of publishing apps to the Google Play Store and Apple App Store, optimizing performance, and implementing scalable architectures (Clean Architecture, MVVM, MVC). Experienced in CI/CD pipelines, Agile development, and native Android (Java). 
